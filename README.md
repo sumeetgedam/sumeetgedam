@@ -14,7 +14,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumeetgedam&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&theme=radical" />
 
-[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
