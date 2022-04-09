@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Angular and Spring Boot
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with Full Stack Development
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
