@@ -10,7 +10,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with Full Stack Development -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [![Linkedin: Sumeet Gedam](https://img.shields.io/badge/-Sumeet%20Gedam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeet-gedam/)](https://www.linkedin.com/in/sumeet-gedam/)
+- 📫 How to reach me: [![Linkedin: Sumeet Gedam](https://img.shields.io/badge/-Sumeet%20Gedam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeet-gedam/)](https://www.linkedin.com/in/sumeet-gedam/)  [![Twitter: Sumeet Gedam](https://img.shields.io/twitter/follow/S_M_G01?style=social)](https://twitter.com/S_M_G01)
+
 - 📇 My Certifications and Courses
     - [Introduction to MongoDB](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/c8cf984a-7213-4d7f-910f-60ee3f484afd-sumeet-gedam-21ea2b8a-1707-412e-ac33-42a1d35d2464-certificate.pdf)
     - [Linux For Developers](https://www.coursera.org/account/accomplishments/certificate/6RWV47RR8DLG)
