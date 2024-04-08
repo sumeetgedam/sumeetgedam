@@ -35,6 +35,6 @@
           
 <!-- [![Sumeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumeetgedam&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph) -->
 
-If you want to talk to me or want to discuess something then feel free to ping on LinkedIn.  
+If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.  
 
 ![](https://komarev.com/ghpvc/?username=sumeetgedam&color=44CC11)
