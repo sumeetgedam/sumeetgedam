@@ -24,17 +24,13 @@
 **Web Development :** HTML • CSS • JavaScript  
 **Database Management :** MySQL • Sybase • MongoDB  
 **Others :** GIT • Production Support • ETL • AutoSys • Unix • Object Oriented Programming • Messaging Queue • Agile Methodologies
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumeetgedam&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&theme=radical&langs_count=6" />
--->
-<!-- [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+[![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sumeetgedam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&layout=compact&theme=calm)](https://github.com/sumeetgedam/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumeetgedam&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&layout=compact&theme=calm)](https://git.io/streak-stats)       
-          
-<!-- [![Sumeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumeetgedam&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph) -->
 
 If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.  
 
-![](https://komarev.com/ghpvc/?username=sumeetgedam&color=44CC11)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetgedam&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamsmg" /> </p>
+
+
