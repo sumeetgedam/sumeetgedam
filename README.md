@@ -25,6 +25,13 @@
 **Database Management :** MySQL • Sybase • MongoDB  
 **Others :** GIT • Production Support • ETL • AutoSys • Unix • Object Oriented Programming • Messaging Queue • Agile Methodologies
 
+<h3 align="center">Coding Profiles:</h3>
+<p align="center">
+<a href="https://www.leetcode.com/Sumeet_20" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="sumeetgedam" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sumeetgedam01" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="sumeetgedam" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/sumeetgedam_04" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="sumeetgedam" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/Sumeet_20" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="sumeetgedam" height="40" width="40" /></a>
+</p>
 
 [![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sumeetgedam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgedam&layout=compact&theme=calm)](https://github.com/sumeetgedam/github-readme-stats)
