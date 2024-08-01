@@ -31,6 +31,8 @@
 <a href="https://auth.geeksforgeeks.org/user/sumeetgedam01" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="sumeetgedam" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/sumeetgedam_04" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="sumeetgedam" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/Sumeet_20" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="sumeetgedam" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/sumeetgedam" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sumeetgedam" height="40" width="30" /></a>
+
 </p>
 
 [![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeetgedam&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sumeetgedam/github-readme-stats)
