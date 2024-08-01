@@ -6,11 +6,11 @@
 <!-- Here are some ideas to get you started: -->
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently as a Senior Software Engineer @AccoliteDigital. I work in the development of processes and databases which provides data to in-house client Trading System.
-- 🌱 I’m currently learning Python ( Numpy / Pandas ) and Spring Boot.
+- 🌱 I’m currently upskilling in Python ( Numpy / Pandas ) , Java ( Spring ) and low latency systems.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with Full Stack Development -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [![Linkedin: Sumeet Gedam](https://img.shields.io/badge/-Sumeet%20Gedam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeet-gedam/)](https://www.linkedin.com/in/sumeet-gedam/)
+- 📫 How to reach me: [![Linkedin: Sumeet Gedam](https://img.shields.io/badge/-Sumeet%20Gedam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeet-gedam/)](https://www.linkedin.com/in/sumeet-gedam/)
 
 - 📇 My Certifications and Courses
     - [Introduction to MongoDB](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/c8cf984a-7213-4d7f-910f-60ee3f484afd-sumeet-gedam-21ea2b8a-1707-412e-ac33-42a1d35d2464-certificate.pdf)
